@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "251829281579",
+    "firebase_url": "https://corona-update-663fc.firebaseio.com",
+    "project_id": "corona-update-663fc",
+    "storage_bucket": "corona-update-663fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251829281579:android:35fd908256f1d0308b5b6e",
+        "android_client_info": {
+          "package_name": "com.example.coronaupdateflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251829281579-vvcrsjj2ui9ubecm9vohf6ofq5trp6a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYxMPknkVrYUSz6Rkc51IWHlBDPNqMa2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251829281579-vvcrsjj2ui9ubecm9vohf6ofq5trp6a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251829281579:android:07127f68b1c3c6488b5b6e",
+        "android_client_info": {
+          "package_name": "com.example.test_proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251829281579-vvcrsjj2ui9ubecm9vohf6ofq5trp6a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYxMPknkVrYUSz6Rkc51IWHlBDPNqMa2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251829281579-vvcrsjj2ui9ubecm9vohf6ofq5trp6a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
